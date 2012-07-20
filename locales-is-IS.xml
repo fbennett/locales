@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="is-IS">
+  <info>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <updated>2012-07-04T23:31:02+00:00</updated>
+  </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
     <date-part name="day" suffix=". "/>
@@ -18,6 +22,7 @@
     <term name="anonymous">nafnlaus</term>
     <term name="anonymous" form="short">nafnl.</term>
     <term name="at">af</term>
+    <term name="available at">available at</term>
     <term name="by">eftir</term>
     <term name="circa">sirka</term>
     <term name="circa" form="short">u.þ.b.</term>
@@ -49,16 +54,19 @@
       <multiple>tilv.</multiple>
     </term>
     <term name="retrieved">sótt</term>
+    <term name="scale">scale</term>
+    <term name="version">version</term>
 
     <!-- ANNO DOMINI; BEFORE CHRIST -->
     <term name="ad">e.Kr.</term>
     <term name="bc">f.Kr.</term>
 
-    <!-- QUOTES -->
+    <!-- PUNCTUATION -->
     <term name="open-quote">„</term>
     <term name="close-quote">“</term>
     <term name="open-inner-quote">‘</term>
     <term name="close-inner-quote">’</term>
+    <term name="page-range-delimiter">–</term>
 
     <!-- ORDINALS -->
     <term name="ordinal-01">.</term>
@@ -177,6 +185,8 @@
     <term name="figure" form="short">mynd.</term>
     <term name="folio" form="short">handr.</term>
     <term name="issue" form="short">nr.</term>
+    <term name="line" form="short">l.</term>
+    <term name="note" form="short">n.</term>
     <term name="opus" form="short">tónv.</term>
     <term name="page" form="short">
       <single>bls.</single>
@@ -213,6 +223,10 @@
       <single>höfundur</single>
       <multiple>höfundar</multiple>
     </term>
+    <term name="director">
+      <single>director</single>
+      <multiple>directors</multiple>
+    </term>
     <term name="editor">
       <single>ritstjóri</single>
       <multiple>ritstjórar</multiple>
@@ -220,6 +234,10 @@
     <term name="editorial-director">
       <single>ritstjóri</single>
       <multiple>ritstjórar</multiple>
+    </term>
+    <term name="illustrator">
+      <single>illustrator</single>
+      <multiple>illustrators</multiple>
     </term>
     <term name="translator">
       <single>þýðandi</single>
@@ -235,6 +253,10 @@
       <single>höf.</single>
       <multiple>höf.</multiple>
     </term>
+    <term name="director" form="short">
+      <single>dir.</single>
+      <multiple>dirs.</multiple>
+    </term>
     <term name="editor" form="short">
       <single>ritstj.</single>
       <multiple>ritstj.</multiple>
@@ -242,6 +264,10 @@
     <term name="editorial-director" form="short">
       <single>ritstj.</single>
       <multiple>ritstj.</multiple>
+    </term>
+    <term name="illustrator" form="short">
+      <single>ill.</single>
+      <multiple>ills.</multiple>
     </term>
     <term name="translator" form="short">
       <single>þýð.</single>
@@ -253,17 +279,22 @@
     </term>
 
     <!-- VERB ROLE FORMS -->
+    <term name="director" form="verb">directed by</term>
     <term name="editor" form="verb">ritstjóri</term>
     <term name="editorial-director" form="verb">ritstjóri</term>
+    <term name="illustrator" form="verb">illustrated by</term>
+    <term name="interviewer" form="verb">viðtal tók</term>
+    <term name="recipient" form="verb">til</term>
+    <term name="reviewed-author" form="verb">by</term>
     <term name="translator" form="verb">þýddi</term>
     <term name="editortranslator" form="verb">ritstjóri og þýðandi</term>
-    <term name="recipient" form="verb">til</term>
-    <term name="interviewer" form="verb">viðtal tók</term>
 
     <!-- SHORT VERB ROLE FORMS -->
     <term name="container-author" form="verb-short">eftir</term>
+    <term name="director" form="verb-short">dir.</term>
     <term name="editor" form="verb-short">ritst.</term>
     <term name="editorial-director" form="verb-short">ritst.</term>
+    <term name="illustrator" form="verb-short">illus.</term>
     <term name="translator" form="verb-short">þýð.</term>
     <term name="editortranslator" form="verb-short">ritst. og þýð.</term>
 

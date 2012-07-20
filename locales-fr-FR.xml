@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="fr-FR">
+  <info>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <updated>2012-07-04T23:31:02+00:00</updated>
+  </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
     <date-part name="day" suffix=" "/>
@@ -18,6 +22,7 @@
     <term name="anonymous">anonyme</term>
     <term name="anonymous" form="short">anon.</term>
     <term name="at">à</term>
+    <term name="available at">available at</term>
     <term name="by">par</term>
     <term name="circa">vers</term>
     <term name="circa" form="short">v.</term>
@@ -37,7 +42,7 @@
     <term name="interview">entretien</term>
     <term name="letter">lettre</term>
     <term name="no date">sans date</term>
-    <term name="no date" form="short">s. d.</term>
+    <term name="no date" form="short">s.&#160;d.</term>
     <term name="online">en ligne</term>
     <term name="presented at">présenté à</term>
     <term name="reference">
@@ -49,16 +54,19 @@
       <multiple>réf.</multiple>
     </term>
     <term name="retrieved">consulté</term>
+    <term name="scale">scale</term>
+    <term name="version">version</term>
 
     <!-- ANNO DOMINI; BEFORE CHRIST -->
     <term name="ad">apr. J.-C.</term>
     <term name="bc">av. J.-C.</term>
 
-    <!-- QUOTES -->
-    <term name="open-quote">« </term>
-    <term name="close-quote"> »</term>
+    <!-- PUNCTUATION -->
+    <term name="open-quote">«&#160;</term>
+    <term name="close-quote">&#160;»</term>
     <term name="open-inner-quote">“</term>
     <term name="close-inner-quote">”</term>
+    <term name="page-range-delimiter">–</term>
 
     <!-- ORDINALS -->
     <term name="ordinal-01">ᵉʳ</term>
@@ -188,8 +196,8 @@
     <term name="part" form="short">part.</term>
     <term name="section" form="short">sect.</term>
     <term name="sub verbo" form="short">
-      <single>s. v.</single>
-      <multiple>s. vv.</multiple>
+      <single>s.&#160;v.</single>
+      <multiple>s.&#160;vv.</multiple>
     </term>
     <term name="verse" form="short">
       <single>v.</single>
@@ -215,6 +223,10 @@
       <single/>
       <multiple/>
     </term>
+    <term name="director">
+      <single>director</single>
+      <multiple>directors</multiple>
+    </term>
     <term name="editor">
       <single>éditeur</single>
       <multiple>éditeurs</multiple>
@@ -222,6 +234,10 @@
     <term name="editorial-director">
       <single>directeur</single>
       <multiple>directeurs</multiple>
+    </term>
+    <term name="illustrator">
+      <single>illustrator</single>
+      <multiple>illustrators</multiple>
     </term>
     <term name="translator">
       <single>traducteur</single>
@@ -237,6 +253,10 @@
       <single/>
       <multiple/>
     </term>
+    <term name="director" form="short">
+      <single>dir.</single>
+      <multiple>dirs.</multiple>
+    </term>
     <term name="editor" form="short">
       <single>éd.</single>
       <multiple>éd.</multiple>
@@ -244,6 +264,10 @@
     <term name="editorial-director" form="short">
       <single>dir.</single>
       <multiple>dir.</multiple>
+    </term>
+    <term name="illustrator" form="short">
+      <single>ill.</single>
+      <multiple>ills.</multiple>
     </term>
     <term name="translator" form="short">
       <single>trad.</single>
@@ -255,17 +279,22 @@
     </term>
 
     <!-- VERB ROLE FORMS -->
+    <term name="director" form="verb">directed by</term>
     <term name="editor" form="verb">édité par</term>
     <term name="editorial-director" form="verb">sous la direction de</term>
+    <term name="illustrator" form="verb">illustrated by</term>
+    <term name="interviewer" form="verb">entretien réalisé par</term>
+    <term name="recipient" form="verb">à</term>
+    <term name="reviewed-author" form="verb">by</term>
     <term name="translator" form="verb">traduit par</term>
     <term name="editortranslator" form="verb">édité et traduit par</term>
-    <term name="recipient" form="verb">à</term>
-    <term name="interviewer" form="verb">entretien réalisé par</term>
 
     <!-- SHORT VERB ROLE FORMS -->
     <term name="container-author" form="verb-short">par</term>
+    <term name="director" form="verb-short">dir.</term>
     <term name="editor" form="verb-short">éd. par</term>
     <term name="editorial-director" form="verb-short">ss la dir. de</term>
+    <term name="illustrator" form="verb-short">illus.</term>
     <term name="translator" form="verb-short">trad. par</term>
     <term name="editortranslator" form="verb-short">éd. et trad. par</term>
 
