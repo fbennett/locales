@@ -69,10 +69,7 @@
     <term name="page-range-delimiter">–</term>
 
     <!-- ORDINALS -->
-    <term name="ordinal-01">ος</term>
-    <term name="ordinal-02">ος</term>
-    <term name="ordinal-03">ος</term>
-    <term name="ordinal-04">ος</term>
+    <term name="ordinal">ος</term>
 
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">πρώτος</term>

@@ -74,10 +74,7 @@
     <term name="page-range-delimiter">–</term>
 
     <!-- ORDINALS -->
-    <term name="ordinal-01">й</term>
-    <term name="ordinal-02">й</term>
-    <term name="ordinal-03">й</term>
-    <term name="ordinal-04">й</term>
+    <term name="ordinal">й</term>
 
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">первый</term>

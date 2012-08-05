@@ -69,10 +69,7 @@
     <term name="page-range-delimiter">–</term>
 
     <!-- ORDINALS -->
-    <term name="ordinal-01">.ª</term>
-    <term name="ordinal-02">.ª</term>
-    <term name="ordinal-03">.ª</term>
-    <term name="ordinal-04">.ª</term>
+    <term name="ordinal">.ª</term>
 
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">primera</term>

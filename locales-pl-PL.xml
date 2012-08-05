@@ -69,10 +69,7 @@
     <term name="page-range-delimiter">–</term>
 
     <!-- ORDINALS -->
-    <term name="ordinal-01">.</term>
-    <term name="ordinal-02">.</term>
-    <term name="ordinal-03">.</term>
-    <term name="ordinal-04">.</term>
+    <term name="ordinal">.</term>
 
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">pierwszy</term>

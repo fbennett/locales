@@ -73,10 +73,25 @@
     <term name="page-range-delimiter">–</term>
 
     <!-- ORDINALS -->
-    <term name="ordinal-01">e</term>
-    <term name="ordinal-02">e</term>
-    <term name="ordinal-03">e</term>
-    <term name="ordinal-04">e</term>
+    <term name="ordinal">ste</term>
+    <term name="ordinal-00" match="whole-number">de</term>
+    <term name="ordinal-02" match="last-two-digits">de</term>
+    <term name="ordinal-03" match="last-two-digits">de</term>
+    <term name="ordinal-04" match="last-two-digits">de</term>
+    <term name="ordinal-05" match="last-two-digits">de</term>
+    <term name="ordinal-06" match="last-two-digits">de</term>
+    <term name="ordinal-07" match="last-two-digits">de</term>
+    <term name="ordinal-09" match="last-two-digits">de</term>
+    <term name="ordinal-10">de</term>
+    <term name="ordinal-11">de</term>
+    <term name="ordinal-12">de</term>
+    <term name="ordinal-13">de</term>
+    <term name="ordinal-14">de</term>
+    <term name="ordinal-15">de</term>
+    <term name="ordinal-16">de</term>
+    <term name="ordinal-17">de</term>
+    <term name="ordinal-18">de</term>
+    <term name="ordinal-19">de</term>
 
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">eerste</term>

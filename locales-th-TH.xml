@@ -69,10 +69,7 @@
     <term name="page-range-delimiter">–</term>
 
     <!-- ORDINALS -->
-    <term name="ordinal-01">หนึ่ง</term>
-    <term name="ordinal-02">สอง</term>
-    <term name="ordinal-03">สาม</term>
-    <term name="ordinal-04">สี่</term>
+    <term name="ordinal"/>
 
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">หนึ่ง</term>

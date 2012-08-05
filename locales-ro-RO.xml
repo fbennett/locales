@@ -69,10 +69,8 @@
     <term name="page-range-delimiter">–</term>
 
     <!-- ORDINALS -->
-    <term name="ordinal-01"/>
-    <term name="ordinal-02">-lea</term>
-    <term name="ordinal-03">-lea</term>
-    <term name="ordinal-04">-lea</term>
+    <term name="ordinal">-lea</term>
+    <term name="ordinal-01" match="whole-number"/>
 
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">primul</term>
