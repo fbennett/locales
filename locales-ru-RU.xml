@@ -88,32 +88,6 @@
     <term name="long-ordinal-09">девятый</term>
     <term name="long-ordinal-10">десятый</term>
 
-    <!-- CATEGORIES -->
-    <term name="anthropology">антропология</term>
-    <term name="astronomy">астрономия</term>
-    <term name="biology">биология</term>
-    <term name="botany">ботаника</term>
-    <term name="chemistry">химия</term>
-    <term name="engineering">инженерное дело</term>
-    <term name="generic-base">общий</term>
-    <term name="geography">география</term>
-    <term name="geology">геология</term>
-    <term name="history">история</term>
-    <term name="humanities">гуманитарные науки</term>
-    <term name="linguistics">лингвистика</term>
-    <term name="literature">литературоведение</term>
-    <term name="math">математика</term>
-    <term name="medicine">медицина</term>
-    <term name="philosophy">философия</term>
-    <term name="physics">физика</term>
-    <term name="psychology">психология</term>
-    <term name="sociology">социология</term>
-    <term name="science">естественные науки</term>
-    <term name="political_science">политические науки</term>
-    <term name="social_science">социальные науки</term>
-    <term name="theology">теология</term>
-    <term name="zoology">зоология</term>
-
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
       <single>книга</single>

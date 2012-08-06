@@ -83,32 +83,6 @@
     <term name="long-ordinal-09">niende</term>
     <term name="long-ordinal-10">tiende</term>
 
-    <!-- CATEGORIES -->
-    <term name="anthropology">antropologi</term>
-    <term name="astronomy">astronomi</term>
-    <term name="biology">biologi</term>
-    <term name="botany">botanikk</term>
-    <term name="chemistry">kjemi</term>
-    <term name="engineering">ingeniørvitenskap</term>
-    <term name="generic-base">generell</term>
-    <term name="geography">geografi</term>
-    <term name="geology">geologi</term>
-    <term name="history">historie</term>
-    <term name="humanities">humanistiske fag</term>
-    <term name="linguistics">lingvistikk</term>
-    <term name="literature">litteratur</term>
-    <term name="math">mattematikk</term>
-    <term name="medicine">medisin</term>
-    <term name="philosophy">filosofi</term>
-    <term name="physics">fysikk</term>
-    <term name="psychology">fysiologi</term>
-    <term name="sociology">sosiologi</term>
-    <term name="science">naturvitenskap</term>
-    <term name="political_science">statsvitenskap</term>
-    <term name="social_science">samfunnsvitenskap</term>
-    <term name="theology">teologi</term>
-    <term name="zoology">zoologi</term>
-
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
       <single>bok</single>

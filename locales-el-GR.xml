@@ -83,32 +83,6 @@
     <term name="long-ordinal-09">ένατος</term>
     <term name="long-ordinal-10">δέκατος</term>
 
-    <!-- CATEGORIES -->
-    <term name="anthropology">ανθρωπολογία</term>
-    <term name="astronomy">αστρονομία</term>
-    <term name="biology">βιολογία</term>
-    <term name="botany">βοτανική</term>
-    <term name="chemistry">χημεία</term>
-    <term name="engineering">μηχανική</term>
-    <term name="generic-base">γενική βιβλιογραφία</term>
-    <term name="geography">γεωγραφία</term>
-    <term name="geology">γεωλογία</term>
-    <term name="history">ιστορία</term>
-    <term name="humanities">ανθρωπιστικές σπουδές</term>
-    <term name="linguistics">linguistics</term>
-    <term name="literature">λογοτεχνία</term>
-    <term name="math">μαθηματικά</term>
-    <term name="medicine">ιατρική</term>
-    <term name="philosophy">φιλοσοφία</term>
-    <term name="physics">φυσική</term>
-    <term name="psychology">ψυχολογία</term>
-    <term name="sociology">κοινωνιολογία</term>
-    <term name="science">θετικές επιστήμες</term>
-    <term name="political_science">πολιτικές επιστήμες</term>
-    <term name="social_science">κοινωνικές επιστήμες</term>
-    <term name="theology">θεολογία</term>
-    <term name="zoology">ζωολογία</term>
-
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
       <single>βιβλίο</single>

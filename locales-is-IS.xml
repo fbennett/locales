@@ -83,32 +83,6 @@
     <term name="long-ordinal-09">níundi</term>
     <term name="long-ordinal-10">tíundi</term>
 
-    <!-- CATEGORIES -->
-    <term name="anthropology">mannfræði</term>
-    <term name="astronomy">stjörnufræði</term>
-    <term name="biology">líffræði</term>
-    <term name="botany">grasafræði</term>
-    <term name="chemistry">efnafræði</term>
-    <term name="engineering">verkfræði</term>
-    <term name="generic-base">almennt efni</term>
-    <term name="geography">landafræði</term>
-    <term name="geology">jarðfræði</term>
-    <term name="history">saga</term>
-    <term name="humanities">hugvísindi</term>
-    <term name="linguistics">málvísindi</term>
-    <term name="literature">bókmenntir</term>
-    <term name="math">stærðfræði</term>
-    <term name="medicine">læknisfræði</term>
-    <term name="philosophy">heimspeki</term>
-    <term name="physics">eðlisfræði</term>
-    <term name="psychology">sálfræði</term>
-    <term name="sociology">félagsfræði</term>
-    <term name="science">vísindi</term>
-    <term name="political_science">stjórnmálafræði</term>
-    <term name="social_science">félagsvísindi</term>
-    <term name="theology">guðfræði</term>
-    <term name="zoology">dýrafræði</term>
-
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
       <single>bók</single>

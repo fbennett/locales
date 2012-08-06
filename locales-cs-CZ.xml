@@ -83,32 +83,6 @@
     <term name="long-ordinal-09">deváté</term>
     <term name="long-ordinal-10">desáté</term>
 
-    <!-- CATEGORIES -->
-    <term name="anthropology">antropologie</term>
-    <term name="astronomy">astronomie</term>
-    <term name="biology">biologie</term>
-    <term name="botany">botanika</term>
-    <term name="chemistry">chemie</term>
-    <term name="engineering">technika</term>
-    <term name="generic-base">všeobecný základ</term>
-    <term name="geography">geografie</term>
-    <term name="geology">geologie</term>
-    <term name="history">historie</term>
-    <term name="humanities">humanitní</term>
-    <term name="linguistics">linguistics</term>
-    <term name="literature">literatura</term>
-    <term name="math">matematika</term>
-    <term name="medicine">medicína</term>
-    <term name="philosophy">filosofie</term>
-    <term name="physics">fyzika</term>
-    <term name="psychology">psychologie</term>
-    <term name="sociology">sociologie</term>
-    <term name="science">věda</term>
-    <term name="political_science">politologie</term>
-    <term name="social_science">sociální věda</term>
-    <term name="theology">teologie</term>
-    <term name="zoology">zoologie</term>
-
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
       <single>kniha</single>

@@ -105,32 +105,6 @@
     <term name="long-ordinal-09">negende</term>
     <term name="long-ordinal-10">tiende</term>
 
-    <!-- CATEGORIES -->
-    <term name="anthropology">anthropologie</term>
-    <term name="astronomy">astronomie</term>
-    <term name="biology">biologie</term>
-    <term name="botany">botanie</term>
-    <term name="chemistry">scheikunde</term>
-    <term name="engineering">techniek</term>
-    <term name="generic-base">generiek</term>
-    <term name="geography">geografie</term>
-    <term name="geology">geologie</term>
-    <term name="history">geschiedenis</term>
-    <term name="humanities">geesteswetenschappen</term>
-    <term name="linguistics">taalkunde</term>
-    <term name="literature">literatuur</term>
-    <term name="math">wiskunde</term>
-    <term name="medicine">medicijnen</term>
-    <term name="philosophy">filosofie</term>
-    <term name="physics">natuurkunde</term>
-    <term name="psychology">psychologie</term>
-    <term name="sociology">sociologie</term>
-    <term name="science">wetenschap</term>
-    <term name="political_science">politieke wetenschappen</term>
-    <term name="social_science">sociale wetenschappen</term>
-    <term name="theology">theologie</term>
-    <term name="zoology">zoologie</term>
-
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
       <single>boek</single>

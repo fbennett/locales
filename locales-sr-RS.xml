@@ -89,32 +89,6 @@
     <term name="long-ordinal-09">ninth</term>
     <term name="long-ordinal-10">tenth</term>
 
-    <!-- CATEGORIES -->
-    <term name="anthropology">антропологија</term>
-    <term name="astronomy">астрономија</term>
-    <term name="biology">биологија</term>
-    <term name="botany">ботаника</term>
-    <term name="chemistry">хемија</term>
-    <term name="engineering">инжињерство</term>
-    <term name="generic-base">уопштена основа</term>
-    <term name="geography">географија</term>
-    <term name="geology">геологија</term>
-    <term name="history">историја</term>
-    <term name="humanities">култура и уметност</term>
-    <term name="linguistics">linguistics</term>
-    <term name="literature">литература</term>
-    <term name="math">математика</term>
-    <term name="medicine">медицина</term>
-    <term name="philosophy">филозофија</term>
-    <term name="physics">физика</term>
-    <term name="psychology">психологија</term>
-    <term name="sociology">социологија</term>
-    <term name="science">наука</term>
-    <term name="political_science">политичка наука</term>
-    <term name="social_science">друштвена наука</term>
-    <term name="theology">теологија</term>
-    <term name="zoology">зоологија</term>
-
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
       <single>књига</single>

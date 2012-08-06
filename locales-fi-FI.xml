@@ -83,32 +83,6 @@
     <term name="long-ordinal-09">yhdeksäs</term>
     <term name="long-ordinal-10">kymmenes</term>
 
-    <!-- CATEGORIES -->
-    <term name="anthropology">antropologia</term>
-    <term name="astronomy">tähtitiede</term>
-    <term name="biology">biologia</term>
-    <term name="botany">kasvitiede</term>
-    <term name="chemistry">kemia</term>
-    <term name="engineering">tekniikka</term>
-    <term name="generic-base">yleinen</term>
-    <term name="geography">maantiede</term>
-    <term name="geology">geologia</term>
-    <term name="history">historia</term>
-    <term name="humanities">humanistiset tieteet</term>
-    <term name="linguistics">kielitiede</term>
-    <term name="literature">kirjallisuus</term>
-    <term name="math">matematiikka</term>
-    <term name="medicine">lääketiede</term>
-    <term name="philosophy">filosofia</term>
-    <term name="physics">fysiikka</term>
-    <term name="psychology">psykologia</term>
-    <term name="sociology">sosiologia</term>
-    <term name="science">luonnontieteet</term>
-    <term name="political_science">politiikan tutkimus</term>
-    <term name="social_science">yhteiskuntatieteet</term>
-    <term name="theology">teologia</term>
-    <term name="zoology">eläintiede</term>
-
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
       <single>kirja</single>

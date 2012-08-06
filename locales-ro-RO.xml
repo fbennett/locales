@@ -84,32 +84,6 @@
     <term name="long-ordinal-09">al nouălea</term>
     <term name="long-ordinal-10">al zecelea</term>
 
-    <!-- CATEGORIES -->
-    <term name="anthropology">antropologie</term>
-    <term name="astronomy">astronomie</term>
-    <term name="biology">biologie</term>
-    <term name="botany">botanică</term>
-    <term name="chemistry">chimie</term>
-    <term name="engineering">inginerie</term>
-    <term name="generic-base">general (de bază)</term>
-    <term name="geography">geografie</term>
-    <term name="geology">geologie</term>
-    <term name="history">istorie</term>
-    <term name="humanities">științe umaniste</term>
-    <term name="linguistics">lingvistică</term>
-    <term name="literature">literatură</term>
-    <term name="math">matematică</term>
-    <term name="medicine">medicină</term>
-    <term name="philosophy">filosofie</term>
-    <term name="physics">fizică</term>
-    <term name="psychology">psihologie</term>
-    <term name="sociology">sociologie</term>
-    <term name="science">știință</term>
-    <term name="political_science">științe politice</term>
-    <term name="social_science">științe sociale</term>
-    <term name="theology">teologie</term>
-    <term name="zoology">zoologie</term>
-
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
       <single>cartea</single>

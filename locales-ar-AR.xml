@@ -83,32 +83,6 @@
     <term name="long-ordinal-09">التاسع</term>
     <term name="long-ordinal-10">العاشر</term>
 
-    <!-- CATEGORIES -->
-    <term name="anthropology">الاناسة</term>
-    <term name="astronomy">الفلك</term>
-    <term name="biology">الأحياء</term>
-    <term name="botany">النبات</term>
-    <term name="chemistry">الكيمياء</term>
-    <term name="engineering">الهندسة</term>
-    <term name="generic-base">العلوم العامة</term>
-    <term name="geography">الجغرافيا</term>
-    <term name="geology">الجيولوجيا</term>
-    <term name="history">التاريخ</term>
-    <term name="humanities">الإنسانيات</term>
-    <term name="linguistics">اللغويات</term>
-    <term name="literature">الأدب</term>
-    <term name="math">الرياضيات</term>
-    <term name="medicine">الطب</term>
-    <term name="philosophy">الفلسفة</term>
-    <term name="physics">الفيزياء</term>
-    <term name="psychology">علم النفس</term>
-    <term name="sociology">علم الإجتماع</term>
-    <term name="science">العلوم البحتة</term>
-    <term name="political_science">العلوم السياسية</term>
-    <term name="social_science">العلوم الإجتماعية</term>
-    <term name="theology">الإلهيات</term>
-    <term name="zoology">علم الحيوان</term>
-
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
       <single>كتاب</single>

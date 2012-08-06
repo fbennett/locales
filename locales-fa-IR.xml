@@ -89,32 +89,6 @@
     <term name="long-ordinal-09">نهم</term>
     <term name="long-ordinal-10">دهم</term>
 
-    <!-- CATEGORIES -->
-    <term name="anthropology">مردمشناسی</term>
-    <term name="astronomy">ستاره‌شناسی</term>
-    <term name="biology">زیستشناسی</term>
-    <term name="botany">گیاه‌شناسی</term>
-    <term name="chemistry">شیمی</term>
-    <term name="engineering">مهندسی</term>
-    <term name="generic-base">کلیات</term>
-    <term name="geography">جغرافیا</term>
-    <term name="geology">زمینشناسی</term>
-    <term name="history">تاریخ</term>
-    <term name="humanities">علوم انسانی</term>
-    <term name="linguistics">زبان‌شناسی</term>
-    <term name="literature">ادبیات</term>
-    <term name="math">ریاضیات</term>
-    <term name="medicine">پزشکی</term>
-    <term name="philosophy">فلسفه</term>
-    <term name="physics">فیزیک</term>
-    <term name="psychology">روانشناسی</term>
-    <term name="sociology">جامعه‌شناسی</term>
-    <term name="science">علوم</term>
-    <term name="political_science">علوم سیاسی</term>
-    <term name="social_science">علوم اجتماعی</term>
-    <term name="theology">الهیات</term>
-    <term name="zoology">جانورشناسی</term>
-
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
       <single>کتاب</single>

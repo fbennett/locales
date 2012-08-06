@@ -83,32 +83,6 @@
     <term name="long-ordinal-09">เก้า</term>
     <term name="long-ordinal-10">สิบ</term>
 
-    <!-- CATEGORIES -->
-    <term name="anthropology">มานุษยวิทยา</term>
-    <term name="astronomy">ดาราศาสตร์</term>
-    <term name="biology">ชีววิทยา</term>
-    <term name="botany">พฤกษศาสตร์</term>
-    <term name="chemistry">เคมี</term>
-    <term name="engineering">วิศวกรรมศาสตร์</term>
-    <term name="generic-base">พื้นฐานทั่วไป</term>
-    <term name="geography">ภูมิศาสตร์</term>
-    <term name="geology">ธรณีวิทยา</term>
-    <term name="history">ประวัติศาสตร์</term>
-    <term name="humanities">มนุษยศาสตร์</term>
-    <term name="linguistics">ภาษาศาสตร์</term>
-    <term name="literature">วรรณคดี</term>
-    <term name="math">คณิตศาสตร์</term>
-    <term name="medicine">เวชศาสตร์</term>
-    <term name="philosophy">ปรัชญา</term>
-    <term name="physics">ฟิสิกส์</term>
-    <term name="psychology">จิตวิทยา</term>
-    <term name="sociology">สังคมวิทยา</term>
-    <term name="science">วิทยาศาสตร์</term>
-    <term name="political_science">รัฐศาสตร์</term>
-    <term name="social_science">สังคมศาสตร์</term>
-    <term name="theology">เทววิทยา</term>
-    <term name="zoology">สัตววิทยา</term>
-
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
       <single>หนังสือ</single>

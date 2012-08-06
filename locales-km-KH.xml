@@ -89,32 +89,6 @@
     <term name="long-ordinal-09">ទីប្រាំបួន</term>
     <term name="long-ordinal-10">ទីដប់មួយ</term>
 
-    <!-- CATEGORIES -->
-    <term name="anthropology">នរវិទ្យា</term>
-    <term name="astronomy">តារាវិទ្យា</term>
-    <term name="biology">ជីវវិទ្យា</term>
-    <term name="botany">រុក្ខវិទ្យា</term>
-    <term name="chemistry">គីមីវិទ្យា</term>
-    <term name="engineering">វិស្វកម្ម</term>
-    <term name="generic-base">generic base</term>
-    <term name="geography">ភូមិវិទ្យា</term>
-    <term name="geology">ភូគព្ភវិទ្យា</term>
-    <term name="history">ប្រវត្តិវិទ្យា</term>
-    <term name="humanities">មនុស្សវិទ្យា</term>
-    <term name="linguistics">ភាសាវិទ្យា</term>
-    <term name="literature">អក្សរសាស្ត្រ</term>
-    <term name="math">គណិតវិទ្យា</term>
-    <term name="medicine">វេជ្ជសាស្ត្រ</term>
-    <term name="philosophy">ទស្សនវិទ្យា</term>
-    <term name="physics">រូបវិទ្យា</term>
-    <term name="psychology">ចិត្តវិទ្យា</term>
-    <term name="sociology">សង្គមវិទ្យា</term>
-    <term name="science">វិទ្យាសាស្ត្រ</term>
-    <term name="political_science">វិទ្យាសាស្ត្រនយោបាយ</term>
-    <term name="social_science">សង្គមវិទ្យា</term>
-    <term name="theology">ទេវវិទ្យា</term>
-    <term name="zoology">សត្តវិទ្យា</term>
-
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
       <single>សៀវភៅ</single>

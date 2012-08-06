@@ -83,32 +83,6 @@
     <term name="long-ordinal-09">neunter</term>
     <term name="long-ordinal-10">zehnter</term>
 
-    <!-- CATEGORIES -->
-    <term name="anthropology">Anthropologie</term>
-    <term name="astronomy">Astronomie</term>
-    <term name="biology">Biologie</term>
-    <term name="botany">Botanik</term>
-    <term name="chemistry">Chemie</term>
-    <term name="engineering">Ingenieurswissenschaften</term>
-    <term name="generic-base">generischer Stil</term>
-    <term name="geography">Geographie</term>
-    <term name="geology">Geologie</term>
-    <term name="history">Geschichte</term>
-    <term name="humanities">Geisteswissenschaften</term>
-    <term name="linguistics">Linguistik</term>
-    <term name="literature">Literatur</term>
-    <term name="math">Mathematik</term>
-    <term name="medicine">Medizin</term>
-    <term name="philosophy">Philosophie</term>
-    <term name="physics">Physik</term>
-    <term name="psychology">Psychologie</term>
-    <term name="sociology">Soziologie</term>
-    <term name="science">Naturwissenschaften</term>
-    <term name="political_science">Politikwissenschaft</term>
-    <term name="social_science">Sozialwissenschaften</term>
-    <term name="theology">Theologie</term>
-    <term name="zoology">Zoologie</term>
-
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
       <single>Buch</single>

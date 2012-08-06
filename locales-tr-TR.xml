@@ -83,32 +83,6 @@
     <term name="long-ordinal-09">dokuzuncu</term>
     <term name="long-ordinal-10">onuncu</term>
 
-    <!-- CATEGORIES -->
-    <term name="anthropology">antropoloji</term>
-    <term name="astronomy">astronomi</term>
-    <term name="biology">biyoloji</term>
-    <term name="botany">botanik</term>
-    <term name="chemistry">kimya</term>
-    <term name="engineering">mühendislik</term>
-    <term name="generic-base">generic-base</term>
-    <term name="geography">coğrafya</term>
-    <term name="geology">jeoloji</term>
-    <term name="history">tarih</term>
-    <term name="humanities">beşeri bilimler</term>
-    <term name="linguistics">dilbilim</term>
-    <term name="literature">edebiyat</term>
-    <term name="math">matematik</term>
-    <term name="medicine">tıp</term>
-    <term name="philosophy">felsefe</term>
-    <term name="physics">fizik</term>
-    <term name="psychology">pisikoloji</term>
-    <term name="sociology">sosyoloji</term>
-    <term name="science">bilim</term>
-    <term name="political_science">siyaset bilimi</term>
-    <term name="social_science">sosyal bilimler</term>
-    <term name="theology">din bilimi</term>
-    <term name="zoology">zooloji</term>
-
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
       <single>kitap</single>

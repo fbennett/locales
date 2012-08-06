@@ -83,32 +83,6 @@
     <term name="long-ordinal-09">üheksas</term>
     <term name="long-ordinal-10">kümnes</term>
 
-    <!-- CATEGORIES -->
-    <term name="anthropology">antropoloogia</term>
-    <term name="astronomy">astronoomia</term>
-    <term name="biology">bioloogia</term>
-    <term name="botany">botaanika</term>
-    <term name="chemistry">keemia</term>
-    <term name="engineering">tehnikateadus</term>
-    <term name="generic-base">määratlemata</term>
-    <term name="geography">geograafia</term>
-    <term name="geology">geoloogia</term>
-    <term name="history">ajalugu</term>
-    <term name="humanities">humanitaarteadus</term>
-    <term name="linguistics">lingvistika</term>
-    <term name="literature">kirjandusteadus</term>
-    <term name="math">matemaatika</term>
-    <term name="medicine">meditsiin</term>
-    <term name="philosophy">filosoofia</term>
-    <term name="physics">füüsika</term>
-    <term name="psychology">psühholoogia</term>
-    <term name="sociology">sotsioloogia</term>
-    <term name="science">reaalteadus</term>
-    <term name="political_science">politoloogia</term>
-    <term name="social_science">sotsiaalteadus</term>
-    <term name="theology">teoloogia</term>
-    <term name="zoology">zooloogia</term>
-
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
       <single>raamat</single>

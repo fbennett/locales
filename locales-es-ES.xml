@@ -83,32 +83,6 @@
     <term name="long-ordinal-09">novena</term>
     <term name="long-ordinal-10">décima</term>
 
-    <!-- CATEGORIES -->
-    <term name="anthropology">antropología</term>
-    <term name="astronomy">astronomía</term>
-    <term name="biology">biología</term>
-    <term name="botany">botánica</term>
-    <term name="chemistry">química</term>
-    <term name="engineering">ingeniería</term>
-    <term name="generic-base">base genérica</term>
-    <term name="geography">geografía</term>
-    <term name="geology">geología</term>
-    <term name="history">historia</term>
-    <term name="humanities">humanidades</term>
-    <term name="linguistics">lingüística</term>
-    <term name="literature">literatura</term>
-    <term name="math">matemáticas</term>
-    <term name="medicine">medicina</term>
-    <term name="philosophy">filosofía</term>
-    <term name="physics">física</term>
-    <term name="psychology">psicología</term>
-    <term name="sociology">sociología</term>
-    <term name="science">ciencias</term>
-    <term name="political_science">ciencias políticas</term>
-    <term name="social_science">ciencias sociales</term>
-    <term name="theology">teología</term>
-    <term name="zoology">zoología</term>
-
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
       <single>libro</single>
