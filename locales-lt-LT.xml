@@ -8,7 +8,7 @@
     <updated>2012-07-04T23:31:02+00:00</updated>
   </info>
   <style-options punctuation-in-quote="false"/>
-  <date form="text">
+  <date form="text" delimiter=" ">
 
     <!-- "2011 m. lapkričio 1 d." -->
     <date-part name="year" suffix=" m."/>
@@ -76,7 +76,7 @@
     <term name="page-range-delimiter">–</term>
 
     <!-- ORDINALS -->
-    <term name="ordinal">asis</term>
+    <term name="ordinal">-asis</term>
 
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">pirmasis</term>
