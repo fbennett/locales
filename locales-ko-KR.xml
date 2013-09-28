@@ -16,6 +16,10 @@
     <date-part name="day" form="numeric-leading-zeros" prefix="/"/>
   </date>
   <terms>
+    <term name="number-of-volumes">
+      <single>volume</single>
+      <multiple>volumes</multiple>
+    </term>
     <term name="accessed">접근된</term>
     <term name="and">와/과</term>
     <term name="and others">and others</term>

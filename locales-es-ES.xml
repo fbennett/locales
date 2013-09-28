@@ -16,6 +16,10 @@
     <date-part name="year"/>
   </date>
   <terms>
+    <term name="number-of-volumes">
+      <single>volume</single>
+      <multiple>volumes</multiple>
+    </term>
     <term name="accessed">accedido</term>
     <term name="and">y</term>
     <term name="and others">y otros</term>

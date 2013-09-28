@@ -16,6 +16,10 @@
     <date-part name="day" form="numeric-leading-zeros"/>
   </date>
   <terms>
+    <term name="number-of-volumes">
+      <single>volume</single>
+      <multiple>volumes</multiple>
+    </term>
     <term name="accessed">eskuratua</term>
     <term name="and">eta</term>
     <term name="and others">eta beste</term>

@@ -21,6 +21,10 @@
     <date-part name="year"/>
   </date>
   <terms>
+    <term name="number-of-volumes">
+      <single>volume</single>
+      <multiple>volumes</multiple>
+    </term>
     <term name="accessed">skatīts</term>
     <term name="ad">m.ē.</term>
     <term name="and">un</term>

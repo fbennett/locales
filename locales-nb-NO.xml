@@ -16,6 +16,10 @@
     <date-part name="day" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
   </date>
   <terms>
+    <term name="number-of-volumes">
+      <single>volume</single>
+      <multiple>volumes</multiple>
+    </term>
     <term name="accessed">åpnet</term>
     <term name="and">og</term>
     <term name="and others">med flere</term>

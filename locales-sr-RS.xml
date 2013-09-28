@@ -16,6 +16,10 @@
     <date-part name="day" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
   </date>
   <terms>
+    <term name="number-of-volumes">
+      <single>volume</single>
+      <multiple>volumes</multiple>
+    </term>
     <term name="accessed">приступљено</term>
     <term name="and">и</term>
     <term name="and others">и остали</term>

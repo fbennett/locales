@@ -23,6 +23,10 @@
     <date-part name="day" form="numeric-leading-zeros"/>
   </date>
   <terms>
+    <term name="number-of-volumes">
+      <single>volume</single>
+      <multiple>volumes</multiple>
+    </term>
     <term name="accessed">žiūrėta</term>
     <term name="and">ir</term>
     <term name="and others">ir kt.</term>

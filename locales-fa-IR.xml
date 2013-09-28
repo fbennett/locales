@@ -16,6 +16,10 @@
     <date-part name="year"/>
   </date>
   <terms>
+    <term name="number-of-volumes">
+      <single>volume</single>
+      <multiple>volumes</multiple>
+    </term>
     <term name="accessed">دسترسی</term>
     <term name="and">و</term>
     <term name="and others">و دیگران</term>

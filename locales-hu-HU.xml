@@ -16,6 +16,10 @@
     <date-part name="day" form="numeric-leading-zeros" prefix="."/>
   </date>
   <terms>
+    <term name="number-of-volumes">
+      <single>volume</single>
+      <multiple>volumes</multiple>
+    </term>
     <term name="accessed">elérés</term>
     <term name="and">és</term>
     <term name="and others">és mások</term>
