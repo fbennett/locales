@@ -22,6 +22,7 @@
     </term>
     <term name="accessed">приступљено</term>
     <term name="and">и</term>
+    <term name="and" form="symbol">&amp;</term>
     <term name="and others">и остали</term>
     <term name="anonymous">анонимна</term>
     <term name="anonymous" form="short">анон.</term>

@@ -22,6 +22,7 @@
     </term>
     <term name="accessed">被取用</term>
     <term name="and">及</term>
+    <term name="and" form="symbol">&amp;</term>
     <term name="and others">及其他</term>
     <term name="anonymous">不具名的</term>
     <term name="anonymous" form="short">無名</term>

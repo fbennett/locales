@@ -22,6 +22,7 @@
     </term>
     <term name="accessed">ημερομηνία πρόσβασης</term>
     <term name="and">και</term>
+    <term name="and" form="symbol">&amp;</term>
     <term name="and others">και άλλοι</term>
     <term name="anonymous">ανώνυμο</term>
     <term name="anonymous" form="short">ανών.</term>

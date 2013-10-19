@@ -22,6 +22,7 @@
     </term>
     <term name="accessed">eskuratua</term>
     <term name="and">eta</term>
+    <term name="and" form="symbol">&amp;</term>
     <term name="and others">eta beste</term>
     <term name="anonymous">ezezaguna</term>
     <term name="anonymous" form="short">ezez.</term>

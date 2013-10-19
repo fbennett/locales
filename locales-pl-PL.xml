@@ -22,6 +22,7 @@
     </term>
     <term name="accessed">udostępniono</term>
     <term name="and">i</term>
+    <term name="and" form="symbol">&amp;</term>
     <term name="and others">i inni</term>
     <term name="anonymous">anonim</term>
     <term name="anonymous" form="short">anon.</term>

@@ -22,6 +22,7 @@
     </term>
     <term name="accessed">גישה</term>
     <term name="and">ו</term>
+    <term name="and" form="symbol">&amp;</term>
     <term name="and others">and others</term>
     <term name="anonymous">anonymous</term>
     <term name="anonymous" form="short">anon</term>

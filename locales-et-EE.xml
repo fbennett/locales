@@ -22,6 +22,7 @@
     </term>
     <term name="accessed">vaadatud</term>
     <term name="and">ja</term>
+    <term name="and" form="symbol">&amp;</term>
     <term name="and others">ja teised</term>
     <term name="anonymous">anonüümne</term>
     <term name="anonymous" form="short">anon</term>

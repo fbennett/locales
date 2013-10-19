@@ -22,6 +22,7 @@
     </term>
     <term name="accessed">toegang verkry</term>
     <term name="and">en</term>
+    <term name="and" form="symbol">&amp;</term>
     <term name="and others">and others</term>
     <term name="anonymous">anonymous</term>
     <term name="anonymous" form="short">anon</term>

@@ -25,6 +25,7 @@
     </term>
     <term name="accessed">consulté le</term>
     <term name="and">et</term>
+    <term name="and" form="symbol">&amp;</term>
     <term name="and others">et autres</term>
     <term name="anonymous">anonyme</term>
     <term name="anonymous" form="short">anon.</term>

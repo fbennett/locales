@@ -22,6 +22,7 @@
     </term>
     <term name="accessed">erişildi</term>
     <term name="and">ve</term>
+    <term name="and" form="symbol">&amp;</term>
     <term name="and others">ve diğerleri</term>
     <term name="anonymous">anonim</term>
     <term name="anonymous" form="short">anonim</term>
