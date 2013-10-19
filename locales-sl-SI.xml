@@ -16,8 +16,13 @@
     <date-part name="day" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
   </date>
   <terms>
+    <term name="number-of-volumes">
+      <single>volume</single>
+      <multiple>volumes</multiple>
+    </term>
     <term name="accessed">dostopano</term>
     <term name="and">in</term>
+    <term name="and" form="symbol">&amp;</term>
     <term name="and others">in drugi</term>
     <term name="anonymous">anonimni</term>
     <term name="anonymous" form="short">anon</term>

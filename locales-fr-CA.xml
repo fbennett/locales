@@ -19,8 +19,13 @@
     <date-part name="year"/>
   </date>
   <terms>
+    <term name="number-of-volumes">
+      <single>volume</single>
+      <multiple>volumes</multiple>
+    </term>
     <term name="accessed">consulté le</term>
     <term name="and">et</term>
+    <term name="and" form="symbol">&amp;</term>
     <term name="and others">et autres</term>
     <term name="anonymous">anonyme</term>
     <term name="anonymous" form="short">anon.</term>

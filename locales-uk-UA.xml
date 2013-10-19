@@ -16,8 +16,13 @@
     <date-part name="year"/>
   </date>
   <terms>
+    <term name="number-of-volumes">
+      <single>volume</single>
+      <multiple>volumes</multiple>
+    </term>
     <term name="accessed">accessed</term>
     <term name="and">і</term>
+    <term name="and" form="symbol">&amp;</term>
     <term name="and others">та інші</term>
     <term name="anonymous">анонімний</term>
     <term name="anonymous" form="short">анон.</term>

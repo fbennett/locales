@@ -16,8 +16,13 @@
     <date-part name="year"/>
   </date>
   <terms>
+    <term name="number-of-volumes">
+      <single>volume</single>
+      <multiple>volumes</multiple>
+    </term>
     <term name="accessed">vaadatud</term>
     <term name="and">ja</term>
+    <term name="and" form="symbol">&amp;</term>
     <term name="and others">ja teised</term>
     <term name="anonymous">anonüümne</term>
     <term name="anonymous" form="short">anon</term>

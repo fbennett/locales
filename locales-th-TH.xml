@@ -16,8 +16,13 @@
     <date-part name="year"/>
   </date>
   <terms>
+    <term name="number-of-volumes">
+      <single>volume</single>
+      <multiple>volumes</multiple>
+    </term>
     <term name="accessed">สืบค้น</term>
     <term name="and">และ</term>
+    <term name="and" form="symbol">&amp;</term>
     <term name="and others">และคณะ</term>
     <term name="anonymous">นิรนาม</term>
     <term name="anonymous" form="short">นิรนาม</term>

@@ -16,8 +16,13 @@
     <date-part name="year"/>
   </date>
   <terms>
+    <term name="number-of-volumes">
+      <single>volume</single>
+      <multiple>volumes</multiple>
+    </term>
     <term name="accessed">erişildi</term>
     <term name="and">ve</term>
+    <term name="and" form="symbol">&amp;</term>
     <term name="and others">ve diğerleri</term>
     <term name="anonymous">anonim</term>
     <term name="anonymous" form="short">anonim</term>
