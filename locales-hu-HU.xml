@@ -16,6 +16,9 @@
     <date-part name="day" form="numeric-leading-zeros" prefix="."/>
   </date>
   <terms>
+    <term name="radio-broadcast">radio broadcast</term>
+    <term name="television-broadcast">television broadcast</term>
+    <term name="podcast">podcast</term>
     <term name="instant-message">instant message</term>
     <term name="email">email</term>
     <term name="number-of-volumes">
