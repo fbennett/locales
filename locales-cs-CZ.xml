@@ -16,6 +16,8 @@
     <date-part name="year" range-delimiter="-"/>
   </date>
   <terms>
+    <term name="instant message">instant message</term>
+    <term name="email">email</term>
     <term name="number-of-volumes">
       <single>volume</single>
       <multiple>volumes</multiple>
