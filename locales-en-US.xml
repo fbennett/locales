@@ -4,7 +4,10 @@
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
     <updated>2012-07-04T23:31:02+00:00</updated>
   </info>
-  <style-options punctuation-in-quote="true"/>
+  <style-options punctuation-in-quote="true"
+                 leading-noise-words="a,an,the"
+                 name-as-sort-order="ja zh kr my hu vi"
+                 name-never-short="ja zh kr my hu vi"/>
   <date form="text">
     <date-part name="month" suffix=" "/>
     <date-part name="day" suffix=", "/>
